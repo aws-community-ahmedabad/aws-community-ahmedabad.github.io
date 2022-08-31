@@ -2347,8 +2347,8 @@ ul.circle li {
   background-image: url(../images/vols/krutarth.jpg);
 }
 
-#page .section-6 .volunteers .vl-i .person[data-fname="Kinjal"] .img {
-  background-image: url(../images/vols/kinjal.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Jainam"] .img {
+  background-image: url(../images/vols/Jainam.jpg);
 }
 
 #page .section-6 .volunteers .vl-i .person[data-fname="Kinjal"] .img {
@@ -2363,6 +2363,21 @@ ul.circle li {
   background-image: url(../images/vols/ashish_vaghasiya.jpg);
 }
 
+#page .section-6 .volunteers .vl-i .person[data-fname="Harshit"] .img {
+  background-image: url(../images/vols/Harshit.jpg);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Dhruv"] .img {
+  background-image: url(../images/vols/Dhruv.png);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Harshal"] .img {
+  background-image: url(../images/vols/Harshal.jpg);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Taral"] .img {
+  background-image: url(../images/vols/Taral.jpg);
+}
 
 /* line 1056, ../sass/shared/_home.scss */
 #page .section-7 {
