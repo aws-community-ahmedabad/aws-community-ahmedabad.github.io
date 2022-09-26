@@ -2404,7 +2404,9 @@ ul.circle li {
 #page .section-6 .volunteers .vl-i .person[data-lname="Bhoyar"] .img {
   background-image: url(../images/vols/ChetanB.PNG);
 }
-
+#page .section-6 .volunteers .vl-i .person[data-fname="Anay"] .img {
+  background-image: url(../images/vols/Anay.jpeg);
+}
 /* line 1056, ../sass/shared/_home.scss */
 #page .section-7 {
   margin: -50px auto 100px;
