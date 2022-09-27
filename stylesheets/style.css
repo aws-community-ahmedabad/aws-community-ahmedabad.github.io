@@ -2864,3 +2864,20 @@ i.icon.large {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.about-intro-1 p {
+	margin: 0px 0px 15px;
+	text-align: left;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.about-intro-1 ul {
+	list-style-type: disc;
+	margin-left: 30px;
+}
+
+.about-intro-1 ul li {
+	list-style-type: disc;
+	padding-bottom: 5px;
+}
